@@ -20,8 +20,8 @@ Tecnologías Utilizadas
 
 #### Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/crypto-tracker.git
-cd crypto-tracker
+git clone https://github.com/JonaBadd/CryptoTracker-NoSQL.git
+cd CryptoTracker-NoSQL
 ```
 
 #### Instalar dependencias:
